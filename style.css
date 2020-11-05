@@ -1,0 +1,15 @@
+img {
+  max-width: 300px;
+}
+.odd {
+  float: left;
+  margin-right: 20px;
+}
+.even{
+  float: right;
+  margin-left: 20px;
+  margin-align: justify;
+}
+p{
+  text-align: justify; 
+}
