@@ -1,5 +1,6 @@
 img {
   max-width: 300px;
+  border: 4px solid rgb(131, 176, 196)
 }
 .odd {
   float: left;
@@ -8,8 +9,14 @@ img {
 .even{
   float: right;
   margin-left: 20px;
-  margin-align: justify;
 }
 p{
   text-align: justify; 
+}
+html{
+  background-color: rgb(139, 201, 236);
+  color: rgb(84, 15, 139)
+}
+h1{
+  background-color: rgb(56, 162, 194);
 }
